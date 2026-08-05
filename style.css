@@ -890,6 +890,11 @@ body.semscroll {
     cursor: pointer;
 }
 
+.btns-blogs > button > img {
+    width: 5px;
+    height: 10px;
+}
+
 .previous-btn,
 .previous-btn-cine,
 .previous-btn-lidas,
@@ -1899,12 +1904,17 @@ body.semscroll {
     align-items: center;
 }
 
-.btns-cineinsite button {
+.btns-cineinsite > button {
     width: 43px;
     height: 40px;
     background: #C42525;
     border: none;
     cursor: pointer;
+}
+
+.btns-cineinsite > button > img {
+    width: 5px;
+    height: 10px;
 }
 
 .cineinsite-splide {
@@ -2177,6 +2187,11 @@ body.semscroll {
     background-color: #0373BE;
     border: none;
     cursor: pointer;
+}
+
+.end-atr-play > button > img {
+    width: 5px;
+    height: 10px;
 }
 
 .end-atr-play > a {
@@ -2668,6 +2683,11 @@ body.semscroll {
     cursor: pointer;
 }
 
+.btns-fenagro > button > img {
+    width: 5px;
+    height: 10px;
+}
+
 .fenagro-card-destaque > figure {
     max-width: 445px;
     height: 250px;
@@ -3123,6 +3143,11 @@ body.semscroll {
     background-color: #0373BE;
     border: none;
     cursor: pointer;
+}
+
+.end-stories > button > img {
+    width: 5px;
+    height: 10px;
 }
 
 .end-stories > a {
@@ -3790,6 +3815,11 @@ body.semscroll {
         background-color: #0F45AC;
         border: none;
         cursor: pointer;
+    }
+
+    .btns-mais-lidas > button > img {
+        width: 5px;
+        height: 10px;
     }
 
     .btns-mais-lidas{
