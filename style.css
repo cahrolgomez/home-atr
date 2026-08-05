@@ -19,47 +19,56 @@ ul {
 @font-face {
     font-family: 'Work-sans-regular';
     src: url(atr_home_imagens/fonte/Work_Sans/static/WorkSans-Regular.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Work-sans-medium';
     src: url(atr_home_imagens/fonte/Work_Sans/static/WorkSans-Medium.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Work-sans-light';
     src: url(atr_home_imagens/fonte/Work_Sans/static/WorkSans-Light.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Work-sans-bold';
     src: url(atr_home_imagens/fonte/Work_Sans/static/WorkSans-Bold.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Merriweather-Regular';
     src: url(atr_home_imagens/fonte/merriweather/Merriweather-Regular.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Merriweather-Light';
     src: url(atr_home_imagens/fonte/merriweather/Merriweather-Light.ttf) format('truetype');
+    font-display: swap;
 }
 
 
 @font-face {
     font-family: 'Merriweather-Bold';
     src: url(atr_home_imagens/fonte/merriweather/Merriweather-Bold.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Merriweather-Italic';
     src: url(atr_home_imagens/fonte/merriweather/Merriweather-Italic.ttf) format('truetype');
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Merriweather-Black-Italic';
     src: url(atr_home_imagens/fonte/merriweather/Merriweather-BlackItalic.ttf) format('truetype');
+    font-display: swap;
 }
 
 .btn-menu-lateral {
