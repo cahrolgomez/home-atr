@@ -78,6 +78,11 @@ ul {
     margin-top: 5px;
 }
 
+.btn-menu-lateral > img {
+    width: 18px;
+    height: 16px;
+}
+
 body.semscroll {
     overflow: hidden;
 }
@@ -141,6 +146,11 @@ body.semscroll {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.social-medias-a > a > img {
+    width: 18px;
+    height: 18px;
 }
 
 .buscar-menu-lateral {
@@ -334,6 +344,11 @@ body.semscroll {
     left: -30px;
 }
 
+.ouvir-radio  > img {
+    width: 36px;
+    height: 36px;
+}
+
 .ouvir-radio.remover {
     visibility: hidden;
 }
@@ -354,6 +369,11 @@ body.semscroll {
     text-transform: uppercase;
 }
 
+.ouvir > img {
+    width: 26px;
+    height: 26px;
+}
+
 .logo {
     width: 184px;
     height: 36px;
@@ -361,7 +381,7 @@ body.semscroll {
     overflow: hidden;
 }
 
-.logo > img {
+.logo > a > img {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -2537,6 +2557,11 @@ body.semscroll {
     justify-content: center;
 }
 
+.other-days > div > img {
+    width: 19px;
+    height: 19px;
+}
+
 .other-days > div > p {
     font-family: 'Work-sans-Medium';
     font-size: 12px;
@@ -2611,6 +2636,11 @@ body.semscroll {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.hororscopo-container > div > a > figure > img {
+    width: 44.44px;
+    height: 44.44px;
 }
 
 .hororscopo-container > div > a > span {
@@ -3225,6 +3255,11 @@ body.semscroll {
     font-size: 14px;
 }
 
+.links-rodape a > img {
+    width: 18px;
+    height: 18px;
+}
+
 .links-rodape > address {
     color: #1C1C1C;
     display: flex;
@@ -3233,6 +3268,11 @@ body.semscroll {
     font-family: 'Work-sans-regular';
     font-size: 12px;
     font-style: normal;
+}
+
+.links-rodape > address > img {
+    width: 36px;
+    height: 36px;
 }
 
 .links-rodape a:hover {
