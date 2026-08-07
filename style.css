@@ -67,7 +67,7 @@ ul {
 
 @font-face {
     font-family: 'Merriweather-Black-Italic';
-    src: url(atr_home_imagens/fonte/merriweather/merriweather-v33-latin-black-italic.woff2) format('woff2');
+    src: url(atr_home_imagens/fonte/merriweather/merriweather-v33-latin-900italic.woff2) format('woff2');
     font-display: swap;
 }
 
@@ -3068,13 +3068,14 @@ body.semscroll {
 }
 
 .figure-small {
-    max-width: 208.73px;
-    height: 320px;
+    max-width: 216px;
+    height: 312px;
 }
 
 .capa-do-dia-container > figure > img {
     width: 100%;
     height: 100%;
+    object-fit: cover;
 }
 
 .capa-do-dia-container > span {
