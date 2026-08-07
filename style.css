@@ -3409,6 +3409,12 @@ body.semscroll {
         background: transparent;
     }
 
+    .ouvir-radio-mobile > div > div > button > img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
     .frequencia-radio {
         display: flex;
         gap: 4.5px;
