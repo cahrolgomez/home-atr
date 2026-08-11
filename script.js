@@ -67,9 +67,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
     atrSplide.mount();
 
+});
 
 
 
+
+document.addEventListener("DOMContentLoaded", () => {
 
         const eleicoesSplide = new Splide(".eleicoes-cards", {
             arrows: false,
@@ -84,9 +87,12 @@ document.addEventListener("DOMContentLoaded", () => {
         eleicoesSplide.mount();
 
 
+});
 
 
 
+
+document.addEventListener("DOMContentLoaded", () => {
 
     const splideMaisLidas = new Splide('.mais-lidas-splide', {
         arrows: false,
@@ -111,10 +117,12 @@ document.addEventListener("DOMContentLoaded", () => {
         splideMaisLidas.go('>');
     };
 
+});
 
 
 
 
+document.addEventListener('DOMContentLoaded', () => {
 
         const cineSplide = new Splide('.cineinsite-splide', {
             arrows: false,
@@ -140,9 +148,12 @@ document.addEventListener("DOMContentLoaded", () => {
             });
 
 
+});
 
 
 
+
+document.addEventListener("DOMContentLoaded", () => {
 
     const atrPlaySplide = new Splide(".atr-play-splide", {
         arrows: false,
@@ -162,9 +173,12 @@ document.addEventListener("DOMContentLoaded", () => {
         atrPlaySplide.go(">");
     });
 
+});
 
 
 
+
+document.addEventListener("DOMContentLoaded", () => {
 
 
         const municipiosSplide = new Splide(".municipios-cards", {
@@ -180,9 +194,12 @@ document.addEventListener("DOMContentLoaded", () => {
         municipiosSplide.mount();
 
 
+});
 
 
 
+
+document.addEventListener('DOMContentLoaded', () => {
 
     const fenagroSplide = new Splide(".fenagro", {
         type: "slide",
@@ -211,10 +228,12 @@ document.addEventListener("DOMContentLoaded", () => {
         fenagroSplide.go(">");
     });
 
+});
 
 
 
 
+document.addEventListener('DOMContentLoaded', () => {
 
         const splideStories = new Splide('.splide-stories', {
             arrows: false,
